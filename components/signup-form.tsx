@@ -31,6 +31,9 @@ export default function SignupForm() {
     >
       <div className="w-full flex-1 rounded-lg border bg-white px-6 pb-4 pt-8 shadow-md md:w-96 dark:bg-zinc-950">
         <h1 className="mb-3 text-2xl font-bold">Sign up for an account!</h1>
+        <p className="mb-4 text-sm text-zinc-600 dark:text-zinc-400">
+          Sign up for an account to start chatting with the AI!
+        </p>
         <div className="w-full">
           <div>
             <label
